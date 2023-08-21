@@ -1,0 +1,4 @@
+1) we start project in our starter folder
+2) we navigate to starter folder
+3) we install in there all defined in packege.json dependencies by running npm install command
+4) we just try to run started progect npm start -> if see "Task Manager App" which came from app.js file we good to continue
